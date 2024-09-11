@@ -1,0 +1,7 @@
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\bin\Debug\semana9.exe.config
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\bin\Debug\semana9.exe
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\bin\Debug\semana9.pdb
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\obj\Debug\semana9.csproj.AssemblyReference.cache
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\obj\Debug\semana9.csproj.CoreCompileInputs.cache
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\obj\Debug\semana9.exe
+C:\Users\sir_3\OneDrive\Escritorio\formularios\semana9\semana9\obj\Debug\semana9.pdb

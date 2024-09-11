@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\sir_3\\onedrive\\escritorio\\formularios\\windowsformsapp2\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\windowsformsapp2\\modelo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A467AF84-F744-4833-8E17-A393E1D98E69}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\modelo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form4.cs",
+              "ToolTip": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Form4.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form4.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:01:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form4.cs",
+              "ToolTip": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:00:34.929Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:57:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Modelo\\Model1.edmx",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Modelo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\sir_3\\OneDrive\\Escritorio\\formularios\\WindowsFormsApp2\\WindowsFormsApp2\\Modelo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WindowsFormsApp2\\Modelo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-16T16:33:31.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
